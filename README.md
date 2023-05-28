@@ -13,7 +13,6 @@ Technologies Used
 #### MySQL
 Setup
 Clone the repository:
-bash
 Copy code
 git clone https://github.com/sumit8669/MyBlogCode.git
 Import the project into your IDE.
