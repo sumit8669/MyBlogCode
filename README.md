@@ -21,9 +21,6 @@ Create a MySQL database called blog.
 
 Configure the database connection in application.properties.
 
-Run the application.
-
-Navigate to http://localhost:8080 to view the website.
 
 Usage
 To create a new blog post, click on the "New Post" button on the home page.
