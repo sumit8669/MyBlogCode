@@ -17,6 +17,11 @@ Create a MySQL database called blog.
 
 Configure the database connection in application.properties.
 
+#### SpringBoot
+#### SpringSecurity
+#### SpringDataJPA
+#### Thymeleaf
+#### MySQL
 
 Usage
 To create a new blog post, click on the "New Post" button on the home page.
