@@ -6,11 +6,7 @@ User authentication (login, logout, registration)
 CRUD operations for blog posts (create, read, update, delete)
 Commenting on blog posts
 Technologies Used
-#### SpringBoot
-#### SpringSecurity
-#### SpringDataJPA
-#### Thymeleaf
-#### MySQL
+
 Setup
 Clone the repository:
 Copy code
